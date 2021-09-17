@@ -1,0 +1,20 @@
+
+.left-nav-header{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background-color: #002141;
+}
+.left-nav-header h1{
+    color:white;
+    font-size:20px;
+    margin-bottom: 0;
+}
+.left-nav-header img{
+    height: 50px;
+    width: 50px;
+    margin:0 15px;
+}
+.ant-menu-item-selected{
+    background-color: brown !important;
+}
